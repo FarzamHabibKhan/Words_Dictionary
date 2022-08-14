@@ -1,4 +1,4 @@
-# Words Dictionary
+# Words Dictionary :notebook_with_decorative_cover:
 
 ## My Goal
 The objective of this small App is to show the definition of a word by tapping/clicking on it. 
