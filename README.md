@@ -10,4 +10,4 @@ The objective of this small App is to show the definition of a word by tapping/c
 - On tapping the word, the subtitle property is enabled showing the definition of that word. 
 
 # App
-![Finished App](https://github.com/FarzamHabibKhan/Words_Dictionary/blob/master/words_dictionary.gif)
+![Finished App](https://github.com/FarzamHabibKhan/Words_Dictionary/blob/master/words_dictionary.gif =200x370)
